@@ -18,7 +18,7 @@ At 1000W power and and 9L volume my oven can still bake a full tray of leaded so
 ![img2](https://i.imgur.com/1DKV6k1.jpg)
 ![img3](https://i.imgur.com/fc24D1K.png)
 
-**NOTE** I currently have 9 extra PCBs already made. If you would like one drop me a message here and I'll deliver it for $2.89 + shipping + Paypal taxes
+**NOTE** I currently have 9 extra PCBs already made. If you would like one drop me a message here and I'll deliver it for $3.44 + shipping + Paypal taxes
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
